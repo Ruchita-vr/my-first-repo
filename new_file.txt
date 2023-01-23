@@ -1,0 +1,4 @@
+Hello world!
+This is Ruchita V R
+I am writing my first file in git.
+Thank you!!
